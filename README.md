@@ -10,6 +10,7 @@ I'm currently working on building scalable portofolio web. I'm fascinated by cre
 
 Get in Touch
 📫 How to reach me: coderahza@gmail.com
+
 💼 LinkedIn: (https://www.linkedin.com/in/ahza-fatah-49185b289/
 
 Feel free to explore my repositories, and don't hesitate to connect! Let's collaborate and create something amazing together. 🚀
