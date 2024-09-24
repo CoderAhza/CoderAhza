@@ -1,18 +1,9 @@
+Yo! I'm Ahza 👋
+Wassup fam? I’m Ahza, a dev who’s all about that tech life. I’m into coding and creating some cool projects, always on the grind to learn new things and level up. Right now, I’m cooking up some sick projects and diving deep into the latest tech. You’ll usually catch me vibing with JavaScript, Python, and exploring whatever new tools hit the scene.
 
-Hello, World! 👋
-
-I'm Ahza, a passionate Programmer from Jakarta, Indonesia. Welcome to my GitHub profile!
-
-About Me :
-I love exploring new programming languages and frameworks. My journey in the tech world has been an exciting one, and I enjoy collaborating on open-source projects in my free time.
-
-Current Work :
-I'm currently working on building scalable portofolio web. I'm fascinated by creating elegant solutions to complex problems, and I'm always eager to learn and explore new things.
+Outside of coding, I’m lowkey obsessed with sportsand gaming. If you’re into tech, want to collab, or just wanna vibe, hit me up. I’m always down to chop it up about coding, ideas, or just geek out on random stuff. Let’s make something cool together! 💬
 
 Get in Touch
-
 📫 How to reach me: coderahza@gmail.com
-
 💼 LinkedIn: https://www.linkedin.com/in/ahza-fatah-49185b289/
-
-Feel free to explore my repositories, and don't hesitate to connect! Let's collaborate and create something amazing together. 🚀
+Instagram : https://www.instagram.com/ahza_f.r/
